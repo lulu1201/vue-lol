@@ -1,0 +1,32 @@
+[
+    {
+        "username":"zhoulu",
+        "password":123,
+        "icon":"./assets/img/tu5.jpg",
+        "autograph":"这个人很懒什么都没留下",
+        "netname":"陆霸天",
+        "follow":0,
+        "fans":0,
+        "time":""
+    },
+    {
+        "username":"luzhou",
+        "password":456,
+        "icon":"./assets/img/tu6.jpg",
+        "autograph":"这个人很懒什么都没留下",
+        "netname":"大黄蜂",
+        "follow":0,
+        "fans":0,
+        "time":""
+    },
+    {
+        "username":"lulu",
+        "password":123456,
+        "icon":"./assets/img/tu7.jpg",
+        "autograph":"这个人很懒什么都没留下",
+        "netname":"威震天",
+        "follow":0,
+        "fans":0,
+        "time":""
+    }
+]
