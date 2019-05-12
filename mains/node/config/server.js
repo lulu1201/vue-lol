@@ -1,6 +1,6 @@
 module.exports={
   local:{
-    open:true,
+    open:false,
     port:3000
   },
   net:{
@@ -8,7 +8,7 @@ module.exports={
     port:8080,
   },
   http:{
-    open:false,
+    open:true,
     port:80
   },
   https:{
